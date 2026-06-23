@@ -1,5 +1,5 @@
-// Mi Agenda - Service Worker v4
-var CACHE = 'mi-agenda-v5';
+// Mi Agenda - Service Worker v6
+var CACHE = 'mi-agenda-v4';
 var FILES = ['./', './index.html'];
 
 self.addEventListener('install', function(e) {
